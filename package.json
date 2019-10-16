@@ -1,0 +1,38 @@
+{
+  "name": "react-native-x5-webkit-webview",
+  "title": "React Native X5 Webkit Webview",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drugsloveyou/react-native-x5-webkit-webview.git",
+    "baseUrl": "https://github.com/drugsloveyou/react-native-x5-webkit-webview"
+  },
+  "keywords": [
+    "react-native",
+    "webview",
+    "x5",
+    "webkit",
+    "rn-webview",
+    "react-native-webview"
+  ],
+  "author": "drugsxzb <435321508@qq.com>",
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  },
+  "bugs": {
+    "url": "https://github.com/drugsloveyou/react-native-x5-webkit-webview/issues"
+  },
+  "homepage": "https://github.com/drugsloveyou/react-native-x5-webkit-webview#readme"
+}
